@@ -8,8 +8,8 @@ git submodule update --init --recursive
 ```
 
 ```bash
-echo 'export PICO_SDK_PATH=~/pico/pico-sdk' >> ~/.zshrc
-source ~/.zshrc
+echo 'export PICO_SDK_PATH=~/pico/pico-sdk' >> ~/.bashrc
+source ~/.bashrc
 ```
 
 ```bash
